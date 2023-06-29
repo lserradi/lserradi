@@ -1,4 +1,3 @@
-a
 # Hi there <img src="https://github.com/lserradi/lserradi/blob/main/assets/Hi.gif" width="40px">, I'm Lara Serradilla López
 <table >
   <tr>
@@ -21,7 +20,7 @@ a
     <td width="100%">
      <p align="center">
       <a href="https://github.com/lserradi">
-      <img height="300em" src="https://github.com/lserradi/lserradi/blob/main/images/retrato.png"/>
+      <img height="280em" src="https://github.com/lserradi/lserradi/blob/main/images/retrato.png"/>
       </a>
      </p>
     </td>
