@@ -26,56 +26,31 @@
     </td>
   </tr>
   <tr>
-    <td width="55%">
-      <p align="center">
-        <br>
-        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lserradi&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-      </p>
-    </td>
-    <td width="45%">
-      <p align="center">
-        <br>
-        <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lserradi&theme=light&layout=compact"/>
-      </p>
-    </td>
-  </tr>
-  <tr>
    <td width="55%">
      <h2> 🛠 &nbsp;Tech Stack</h2>
      <ul>
       <li>
         <img src="https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin"/>
         <img src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=java"/>
-        <img src="https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown"/>
+        <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript"/>
+        <img src="https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript"/>
       </li>
       <li>
         <img src="https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring"/>
          <img src="https://img.shields.io/badge/-Android-05122A?style=flat&logo=android"/>
       </li>
       <li>
-        <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript"/>
-        <img src="https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript"/>
-      </li>
-      <li>
-        <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git"/>
-         <img src="https://img.shields.io/badge/-Bitbucket-05122A?style=flat&logo=Bitbucket"/>
-        <img src="https://img.shields.io/badge/-Github-05122A?style=flat&logo=github"/>
-        <img src="https://img.shields.io/badge/-Gitlab-05122A?style=flat&logo=gitlab"/>
+        <img src="https://img.shields.io/badge/-Terraform-05122A?style=flat&logo=terraform"/>
+         <img src="https://img.shields.io/badge/-Terragrunt-05122A?style=flat&logo=terragrunt"/>
+        <img src="https://img.shields.io/badge/-AWS-05122A?style=flat&logo=AWS"/>
+        <img src="https://img.shields.io/badge/-Microservices-05122A?style=flat&logo=microservices"/>
+        <img src="https://img.shields.io/badge/-Gradle-05122A?style=flat&logo=gradle"/>
       </li>
       <li>
         <img src="https://img.shields.io/badge/-MySql-05122A?style=flat&logo=mysql"/>
         <img src="https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite"/>
-         <img src="https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql"/>
-      </li>
-     <li>
-        <img src="https://img.shields.io/badge/-Jira-05122A?style=flat&logo=Jira"/>
-        <img src="https://img.shields.io/badge/-Asana-05122A?style=flat&logo=asana"/>
-       <img src="https://img.shields.io/badge/-Confluence-05122A?style=flat&logo=confluence"/>
-      </li>
-      <li>
-        <img src="https://img.shields.io/badge/-IntelliJ-05122A?style=flat&logo=intellijidea"/>
-        <img src="https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC"/>
-        <img src="https://img.shields.io/badge/-Android Studio-05122A?style=flat&logo=android studio"/>
+        <img src="https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql"/>
+        <img src="https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb"/>
       </li>
      </ul>
    </td>
