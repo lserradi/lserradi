@@ -1,26 +1,18 @@
 # Hi there <img src="https://github.com/lserradi/lserradi/blob/main/assets/Hi.gif" width="40px">, I'm Lara Serradilla López
 <table >
   <tr>
-    <td width="55%">
+    <td width="35%">
+       <div align="center">
       <h2> 💻 &nbsp;About Me </h2>
-      <br>
-      <blockquote>
-        <p> 
-        I'm Lara! I'm a software engineer looking to solve real-world problems :earth_asia:
-          <br>
-          I'm passionate about creating software:computer:
-        </p>
-      </blockquote>
-       <ul>
-        <li>🎓 &nbsp; Software Engineering at <a href="https://www.unex.es">UEX</a></li> 
-        <li>👩‍💻 &nbsp; Software Engineer at <a href="https://ninetynine.com/">NinetyNine</a></li>
-       </ul>
-       <br>
+        🎓 &nbsp; Software Engineering at <a href="https://www.unex.es">UEX</a> 
+         <br>
+        👩‍💻 &nbsp; Software Engineer at <a href="https://ninetynine.com/">NinetyNine</a>
+        <br>
     </td>
     <td width="100%">
      <p align="center">
       <a href="https://github.com/lserradi">
-      <img height="280em" src="https://github.com/lserradi/lserradi/blob/main/images/retrato.png"/>
+      <img height="300em" src="https://github.com/lserradi/lserradi/blob/main/images/retrato.png"/>
       </a>
      </p>
     </td>
