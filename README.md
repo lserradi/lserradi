@@ -9,7 +9,7 @@
         👩‍💻 &nbsp; Software Engineer at <a href="https://ninetynine.com/">NinetyNine</a>
         <br>
     </td>
-    <td width="100%">
+    <td width="100%", height="95%">
      <p align="center">
       <a href="https://github.com/lserradi">
       <img height="300em" src="https://github.com/lserradi/lserradi/blob/main/images/retrato.png"/>
@@ -18,7 +18,7 @@
     </td>
   </tr>
   <tr>
-   <td width="55%">
+   <td width="45%">
      <h2> 🛠 &nbsp;Tech Stack</h2>
      <ul>
       <li>
@@ -46,7 +46,7 @@
       </li>
      </ul>
    </td>
-   <td width="45%">
+   <td width="35%">
     <div align="center">
       <h2><b>How to Contact Me</b></h2>
       <p>Please do not be afraid to contact me if you need more information:
